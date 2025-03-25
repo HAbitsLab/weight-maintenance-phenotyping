@@ -75,3 +75,20 @@ scipy
 
 Note: UMAP may require conda-based installation depending on your environment.
 
+├── data/
+│   ├── maintenance_analatic_data.csv
+│   ├── Smart_EBests.dat
+│   ├── engagement.csv
+├── result1.csv                        # Merged data output
+├── pd_cluster_label_10_13.csv        # Clustering result with labels
+├── 2_drepresentation.png             # UMAP plot with convex hulls
+├── weightdistribution.png            # 3 vs 12 month quadrant scatter
+├── maintenance_phenotypes_V1.xlsx    # Final z-scored cluster summary
+├── weight_maintenance_phenotyping.py # Main script
+├── README.md
+
+
+👨‍💻 Author
+Farzad Shahabi
+PhD Candidate – Computer Science
+Specializing in Health Informatics and Machine Learning
